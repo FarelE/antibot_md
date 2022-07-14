@@ -28,8 +28,8 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'I hope You\'re fine'
-global.author = '©wuis'
-global.nomorown = '6282331033919'
+global.author = '© A.Farel.E'
+global.nomorown = '088216335309'
 global.multiplier = 69 // The higher, The harder levelup
 
 global.rpg = {
